@@ -1,0 +1,53 @@
+attrs==20.3.0
+Babel==2.8.0
+backoff==1.10.0
+boltons==19.1.0
+celery==4.4.6
+cffi==1.14.1
+click==7.0
+Flask-Babel==1.0.0
+Flask-Login==0.5.0
+Flask-Misaka==1.0.0
+Flask-Mobility==0.1.1; python_version < '3.0'
+Flask-Mobility==1.0.0; python_version >= '3.0'
+flask-sse==0.2.1
+Flask-Table==0.5.0
+flask==1.1.2
+future-fstrings==1.2.0
+gevent==20.9.0
+google-api-python-client==1.10.0
+google-auth-httplib2==0.0.4
+google-auth-oauthlib==0.4.1
+google-cloud-datastore==1.13.2
+google-cloud-scheduler==1.3.0
+grpcio==1.35.0
+gunicorn==20.0.4; python_version >= '3.0'
+gunicorn==19.10.0; python_version < '3.0'
+honcho==1.0.1
+httplib2==0.18.1
+httplib2shim==0.0.3
+iso8601==0.1.12
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+misaka==2.1.1
+oauth2client==4.1.3
+psutil==5.7.2
+pyaes==1.6.1
+pytz==2020.1
+PyYAML==5.3.1
+redis==3.5.3
+regex==2020.7.14
+requests==2.24.0
+requests_oauthlib==1.3.0
+ruamel.yaml==0.16.10
+schema==0.6.8
+sendgrid==6.4.4
+six==1.15.0
+Spans==1.0.1
+termcolor==1.1.0
+twilio==6.44.1
+Unidecode==1.1.1
+urllib3==1.25.10
+Werkzeug==1.0.1
+xhtml2pdf==0.2.4

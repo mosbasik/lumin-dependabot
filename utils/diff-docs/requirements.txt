@@ -1,0 +1,4 @@
+gitdb2==2.0.3
+GitPython==2.1.8
+Markdown==2.6.11
+smmap2==2.0.3
