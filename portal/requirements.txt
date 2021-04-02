@@ -42,7 +42,7 @@ requests==2.24.0
 requests_oauthlib==1.3.0
 ruamel.yaml==0.16.10
 schema==0.7.4
-sendgrid==6.4.4
+sendgrid==6.6.0
 six==1.15.0
 Spans==1.0.1
 termcolor==1.1.0
