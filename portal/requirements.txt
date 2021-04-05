@@ -21,7 +21,7 @@ google-auth-oauthlib==0.4.1
 google-cloud-datastore==1.13.2
 google-cloud-scheduler==1.3.0
 grpcio==1.36.1
-gunicorn==20.0.4; python_version >= '3.0'
+gunicorn==20.1.0; python_version >= '3.0'
 gunicorn==19.10.0; python_version < '3.0'
 honcho==1.0.1
 httplib2==0.18.1
